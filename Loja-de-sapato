@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sapataria tio danga</title>
+    <link rel="stylesheet" href="style.css"
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+</head>
+
+<header>
+
+</h1 class = "cabecalho">sapataria tio danga</h1> <!--refere-se a uma tag de título-->
+
+<ul>  <!--lista não ordenada-->
+  <li class = "cabecalho-lista-1 ">novidades</li>
+  <li class = "cabecalho-lista-1 ">mais vendidos</li>
+  <li class = "cabecalho-lista-1 ">marcas famosas</li>
+  <li class = "cabecalho-lista-1 ">minha conta</li>
+  
+</ul>
+
+<header/>
+
+<body>
+    <h2 class = "título-2">quem somos</h2>
+
+    <!--CRIAR TAG SECTION-->
+
+    <section class = "paragrafo-1">
+
+      <p>-Se você está em busca dos melhores calçados para completar seu estilo, a sapataria tio danga é o lugar perfeito para você! Oferecemos uma ampla variedade de sapatos, tênis, sandalhas e muito mais para toda família</P>
+      <p>-Por que escolher sapataria tio danga?</p>
+      <p>Variedade de estilos: temos uma ampla seleção de calçados, desde modelos casuais até opções elegantes, para qualquer ocasião.</p>
+      <p>-Conforto e qualidade: trabalhamos com marcas renomadas para garantir o conforto e a durabilidade dos calçados que oferecemos.</p>
+      <p>-Atendimento amigável: nossa equipe está aqui para ajudá-lo a encontrar o par perfeito para você, com dicas e sugestões personalizadas.</p>
+      <p>-Preços acessíveis: Oferecemos preços competitivos e promoções especiais para tornar suas compras ainda mais va</p>
+      <p>Visite nossa loja ou confira nossa coleção online. Venha experimentar nossos calçados e decubra o par perfeito para você!</p>
+    </section>
+ </body>
+
+  <footer>
+    <p>nosso telefone: (42) 9999765434</p>
+    <a href="instagram.com">  <p>Instagram: @tio danga sapataria</p> </a>
+  </footer>
+ <body/>
+<html/> 
